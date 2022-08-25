@@ -5,3 +5,11 @@ ABC
 aaaaaaaaaaaaaaaaaaaaaaa
 
 skjhkjdfjdhfkjsdhfj
+<<<<<<< HEAD
+=======
+
+
+[Stage_branch] ---> updating this line to practice stash comment
+
+updating in stage branch
+>>>>>>> fb1dd31 (Updated)
